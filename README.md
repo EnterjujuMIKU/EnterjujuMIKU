@@ -1,4 +1,4 @@
-<img src="https://count.getloli.com/@EnterjujuMIKU?name=EnterjujuMIKU&theme=original-new&padding=3&offset=0&align=top&scale=0.5&pixelated=1&darkmode=0"/>
+<img src="https://count.getloli.com/@EnterjujuMIKU?name=EnterjujuMIKU&theme=original-new&padding=3&offset=0&align=top&scale=0.85&pixelated=1&darkmode=0"/>
 
 <!--
 **EnterjujuMIKU/EnterjujuMIKU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
